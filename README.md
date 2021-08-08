@@ -1,4 +1,4 @@
-###  👋 Eu sou a Cássia de Arruda!
+###  👋 Olá! sou a Cássia de Arruda!
 
 - 📚 Estudando Java.
 - 💜 instagram: @cassiadearruda_
