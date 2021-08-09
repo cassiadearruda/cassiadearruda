@@ -1,4 +1,4 @@
-## Olá! Eu sou Cássia de Arruda!
+## Olá! Me chamo Cássia de Arruda!
 
 - 🚩 São Paulo - SP.
 
