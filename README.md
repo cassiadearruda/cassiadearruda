@@ -1,9 +1,7 @@
 ## Olá! Eu sou a Cássia de Arruda!
 
 - 🚩 São Paulo - SP.
-
 - 📚 Atualmente estudando Java.
-
 - 💜 Apaixonada por desenvolvimento!
 
 <div>
