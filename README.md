@@ -2,7 +2,7 @@
 
 - 🚩 São Paulo - SP.
 
-- 📚 Atualmente estudando Java e MySQL.
+- 📚 Atualmente estudando Desenvolvimento Web.
 
 - 💜 Apaixonada por desenvolvimento!
 
