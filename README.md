@@ -1,8 +1,8 @@
-## Olá, eu sou a Cássia de Arruda
+## Olá, eu sou a Cássia de Arruda.
 
-- 🚩 São Paulo - SP
+- 🚩 São Paulo - SP.
 
-- 📚 Atualmente estudando Java e MySQL
+- 📚 Atualmente estudando Java e MySQL.
 
 - 💜 Apaixonada por desenvolvimento!
 
