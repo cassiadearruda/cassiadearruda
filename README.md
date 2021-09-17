@@ -2,7 +2,7 @@
 
 - 🚩 São Paulo - SP.
 
-- 📚 Atualmente estudando Desenvolvimento Web.
+- 📚 Atualmente estudando Spring Security e Desenvolvimento Web.
 
 - 💜 Apaixonada por desenvolvimento!
 
