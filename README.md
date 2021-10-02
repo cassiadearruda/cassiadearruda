@@ -2,7 +2,7 @@
 
 - 🚩 São Paulo - SP.
 
-- 📚 Atualmente estudando na Generation Brasil e DIO.
+- 📚 Atualmente estudando na Generation Brasil e DIO
 
 - 💜 Apaixonada por desenvolvimento!
 
